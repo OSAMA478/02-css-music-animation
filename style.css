@@ -56,8 +56,9 @@ body {
 
 span {
 	position: absolute;
-	top: 84%;
-	left: 20%;
+	top: 90%;
+	left: 30%;
+	transform: translate(-50%, -50%);
 
 	font-size: 2em;
 	font-family: sans-serif;
@@ -66,8 +67,9 @@ span {
 
 span:nth-last-of-type(2) {
 	position: absolute;
-	top: 84%;
+	top: 90%;
 	left: 70%;
+	transform: translate(-50%, -50%);
 
 	font-size: 2em;
 	font-family: sans-serif;
